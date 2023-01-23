@@ -4,4 +4,4 @@ Before run server you should install Flask framework.
 ### Flask
 `pip install flask`
 ### Run
-`python3 server.py`
+`python3 server.py` or `python server.py`
