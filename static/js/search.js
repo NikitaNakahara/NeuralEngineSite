@@ -4,7 +4,7 @@ let searchBtn = document.querySelector('.header_search_btn');
 searchState = "hidden";
 
 function openSearch() {
-    searchInput.style.borderLeft = "1px solid #4cbcb8";
+    searchInput.style.borderLeft = "1px solid #00fffa";
     searchInput.animate([
         {width: "0"},
         {width: "200px"}
